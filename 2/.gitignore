@@ -1,4 +1,8 @@
-.pdf
-.zip
+*.pdf
+*.zip
+/*.pdf
+/*.zip
+**/*.pdf
+**/*.zip
 .codegpt
 _pycache_
